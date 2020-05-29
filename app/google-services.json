@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13790428281",
+    "firebase_url": "https://fatec-noite-chat-20.firebaseio.com",
+    "project_id": "fatec-noite-chat-20",
+    "storage_bucket": "fatec-noite-chat-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13790428281:android:da8fab371f93f28a5ba8a8",
+        "android_client_info": {
+          "package_name": "com.example.fatec_ipi_noite_chat_com_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13790428281-pp17s1pqnt9ppoaodg773j08qgkr3qqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJO94409YtT2YR2yTRR5TDUihFnJfcJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13790428281-pp17s1pqnt9ppoaodg773j08qgkr3qqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
